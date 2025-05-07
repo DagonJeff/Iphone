@@ -1,7 +1,6 @@
 # 📱 Iphone
 
-Este projeto consiste em uma **implementação em Java** do diagrama UML localizado no diretório(o mesmo que também segue abaixo) [`uml/`](Iphone/src
-/uml/). Esse diagrama representa a arquitetura e o design do projeto.
+Este projeto consiste em uma **implementação em Java** do diagrama UML localizado no diretório(o mesmo que também segue abaixo) [`src/uml/`](src/uml/)] Esse diagrama representa a arquitetura e o design do projeto.
 
 ---
 
